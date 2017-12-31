@@ -1,0 +1,22 @@
+body {
+  color: navy;
+  font-size: 18px;
+}
+
+h1 {
+  text-align: center;
+}
+p {
+  text-align: center;
+}
+
+input.form-control {
+  text-align: center;
+  width: 260px;
+  margin: auto;
+  color: navy;
+  font-size: 18px;
+  
+}
+
+
